@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Acuity Quick</string>
+    <string name="nutrition_requirement">Nutrition Requirement</string> <!-- Make sure to provide valid strings or remove if not needed -->
+    <string name="mobility_requirement">Mobility Requirement</string>
+    <string name="air_requirement">Air Requirement</string>
+    <string name="care_level">Care Level</string>
+    <string name="sort_room_prompt">Choose room number sort order</string>
+    <string name="sort_acuity_prompt">Choose acuity score sort order</string>
+
+    <string-array name="sorting_options_room_number">
+        <item>Room - No Sort</item>
+        <item>Room - Ascending</item>
+        <item>Room - Descending</item>
+    </string-array>
+
+    <string-array name="sorting_options_acuity_score">
+        <item>Score - No Sort</item>
+        <item>Score - Ascending</item>
+        <item>Score - Descending</item>
+    </string-array>
+</resources>
